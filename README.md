@@ -1,7 +1,7 @@
 ### Hi! I'm Matheus ✌️
 
-- 🔭 Currently working with PHP
-- 🌱 Learning NodeJs
+- 🔭 Currently working with PHP | JS | CSS 
+- 🌱 Learning ReactJS
 - ⏳ 20 years old
 
 <div align="center">
