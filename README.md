@@ -1,7 +1,7 @@
-### Hi! I'm Matheus ✌️
+### Hi! My name is Matheus Aguiar. Welcome to my github profile. ✌️
 
 - 🔭 Currently working with PHP | JS | CSS 
-- 🌱 Learning ReactJS
+- 💡 Focus on PHP
 - ⏳ 21 years old
 
 <div align="center">
