@@ -2,8 +2,8 @@
 
 - 🔭 Currently working with PHP | JS | CSS 
 - 💡 Focus on PHP
-- 🎓 Graduated in Information Systems
 - ⏳ 21 years old
+- 🎓 Graduated in Information Systems
 
 <div align="center">
   <a href="https://github.com/aguiarrdev">
