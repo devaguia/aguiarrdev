@@ -2,6 +2,7 @@
 
 - 🔭 Currently working with PHP | JS | CSS 
 - 💡 Focus on PHP
+- 🎓 Graduated in Information Systems
 - ⏳ 21 years old
 
 <div align="center">
