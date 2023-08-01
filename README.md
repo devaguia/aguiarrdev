@@ -29,7 +29,7 @@
 ##
   
 <div> 
-  <a href="https://www.linkedin.com/in/matheus-aguiar-42910275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/devaguia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://dev.to/devaguia"><img src="https://img.shields.io/badge/dev.to-606066?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
   <a href = "https://medium.com/@devaguia"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/devaguia" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
