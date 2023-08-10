@@ -1,4 +1,4 @@
-### Hi! My name is Matheus Aguiar. Welcome to my github profile. ✌️
+### Hi there! My name is Matheus Aguiar. Welcome to my github profile. ✌️
 
 - 🔭 Currently working with PHP | JS | CSS 
 - 💡 Focus on PHP
