@@ -1,6 +1,6 @@
 ### Hi there! My name is Matheus Aguiar. Welcome to my github profile. ✌️
 
-- 🔭 Currently working with PHP | JS | CSS 
+- 🔭 Currently working with PHP | WordPress | WooCommerce
 - 💡 Focus on PHP
 - ⏳ 22 years old
 - 🎓 Graduated in Information Systems
