@@ -26,5 +26,5 @@
   <a href= "https://dev.to/devaguia" target="_blank"><img src="https://img.shields.io/badge/dev.to-606066?style=for-the-badge&logo=devdotto&logoColor=white"></a>
   <a href= "https://medium.com/@devaguia" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white"></a>
  	<a href="https://www.twitch.tv/devaguia" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href= "mailto:aguiartgv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-fc0328?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href= "mailto:matheus@aguia.dev" target="_blank"><img src="https://img.shields.io/badge/-Gmail-fc0328?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
