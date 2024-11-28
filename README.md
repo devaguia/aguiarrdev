@@ -2,7 +2,7 @@
 
 - 🔭 Currently working with PHP | WordPress | WooCommerce
 - 💡 Focus on PHP
-- ⏳ 22 years old
+- ⏳ 23 years old
 - 🎓 Graduated in Information Systems
   
 <div style="display: inline_block"><br>
